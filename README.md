@@ -24,7 +24,7 @@
     <h2 align="center">⚚ Currently learning 〣( ºΔº )〣</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,cpp,react,js,html,css,supabase,postgres" />
+            <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,postgres" />
         </a>
     </p>
     <p align="center">➜ Learning by breaking things and figuring out how to fix them. These are the technologies I'm currently focusing on. 𐔌՞꜆.  ̫.꜀՞𐦯</p>
